@@ -1,0 +1,56 @@
+body {
+  background-image: url(hatter.png);
+}
+
+h1 {
+  color: #eb7100;
+  text-align: center;
+  font-size: 40px;
+  margin: 0 0 10px;
+}
+
+h2 {
+  color: #eb7100;
+  font-variant-caps: all-petite-caps;
+}
+
+p {
+  text-align: justify;
+  text-indent: 25px;
+}
+
+
+#bevezeto {
+  width: 600px;
+}
+
+.keret {
+  background-color: #f1f1f1;
+  margin: 10px auto;
+  text-align: center;
+  padding: 10px;
+  box-shadow: 10px 10px 5px #cfb7a2;
+}
+
+#bokor {
+  width: 550px;
+  border: 5px solid orange;
+}
+
+li {
+  list-style-image: url(./bogyo.png);
+  margin: 3px 0;
+}
+
+#termes {
+  float: left;
+  height: 400px;
+  margin-right: 25px;
+}
+
+#erdekesseg {
+  width: 250px;
+  float: right;
+  background-color: antiquewhite;
+  transform: rotate(5deg);
+}
